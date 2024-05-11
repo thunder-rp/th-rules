@@ -21,7 +21,6 @@ La mort RP est donc un outil à la fois pour la dynamique narrative et pour les 
 ⚠️**Toute mort découlant d’une scène de mort RP sera considérée comme étant une mort RP**
 
 
-
 ### **Règles** <a href="#regles" id="regles"></a>
 
 * Les Chefs, Jeffes, et Ogs ont la possibilité de traiter les cas des joueurs inactifs. Si un joueur ne se connecte plus sur le serveur, ils peuvent simplement soumettre un ticket pour demander le wipe de ce joueur. La suppression du joueur s'effectuera après une vérification préalable.
