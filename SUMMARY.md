@@ -19,3 +19,7 @@
 * [🌱 Illégal](reglement-autres/illegal.md)
 * [💲 Lier à la boutique](reglement-autres/lier-a-la-boutique.md)
 * [💲 REGLEMENT BOUTIQUE](reglement-autres/reglement-boutique.md)
+
+## CGU CGV
+
+* [Page 1](cgu-cgv/page-1.md)
