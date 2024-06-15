@@ -10,19 +10,17 @@ L'utilisation de tout programme tiers, mod de jeu ou toute méthode affectant vo
 
 
 
-Thunder RP décline toute responsabilité en cas de dommages matériels survenant lors d'une session de jeu sur nos serveurs.
-
-
+➔ **Promotions**
 
 Tout acte de promotion pour un autre serveur GTA RP entraînera un bannissement immédiat, sans préavis.
 
 
 
-#### Politique de Remboursement
+#### ➔  Politique de Remboursement
 
 Pour être éligible à un remboursement, vous devez fournir les preuves suivantes :
 
-* Nom et prénoms tels qu'affichés en jeu (accessible via la touche `Échap`).
+* Citizen ID disponible via le chat en jeu "/citizenid".
 * Une capture d'écran claire montrant l'objet ou la situation en question, avec la date et l'heure visibles.
 
 Veuillez soumettre votre demande de remboursement accompagnée de ces éléments à travers un ticket sur le serveur Discord, dans la section [**Ticket** ](https://discord.com/channels/1179819014789267497/1179848771165761607/1179852312911564905)
@@ -64,13 +62,13 @@ Notez qu'il est **strictement interdit** de rompre le roleplay par des intervent
 
 ➔ **Mettre votre pseudo Discord sur votre FiveM.**
 
+Il est interdit d'utiliser des noms de personnes réelles, de personnages célèbres, ainsi que des jeux de mots ou du contenu de nature à provoquer (troll). Et de mettre votre pseudo Discord dans votre pseudo FiveM :&#x20;
+
+{% embed url="https://media.thunder-rp.fr/poster/video/pseudofivem/video.mp4" %}
 
 
-Il est interdit d'utiliser des noms de personnes réelles, de personnages célèbres, ainsi que des jeux de mots ou du contenu de nature à provoquer (troll).
 
-
-
-#### ➔  Dons Illégitimes
+➔  Dons Illégitimes
 
 Si vous recevez un don d'argent, d'arme, ou de tout autre élément qui vous semble illégitime, vous êtes requis de le notifier immédiatement. Veuillez suivre les étapes suivantes :
 
