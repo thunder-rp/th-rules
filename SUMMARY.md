@@ -1,6 +1,8 @@
 # Table of contents
 
 * [👋 Bienvenue sur Thunder RP](README.md)
+* [Règles Générales](regles-generales.md)
+* [Rejoindre Thunder RP](rejoindre-thunder-rp.md)
 
 ## 🖥️ Réglement serveur
 
