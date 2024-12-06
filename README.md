@@ -19,21 +19,9 @@ layout:
 
 # 👋 Bienvenue sur Thunder RP
 
-## **Bienvenue sur le règlement de Thunder RP**
+## Qu'est-ce que ce site ?
 
-Ici, vous trouverez toutes les informations nécessaires pour faire du roleplay de qualité avec une communauté unie et partager du plaisir tout en respectant les règles. Ces règles peuvent changer, et une notification sera envoyée en cas de modification. Pour rejoindre le serveur, vous devez avoir pris connaissance du règlement.
+Ce site vous permet de connaître les règles du serveur.
 
-
-
-
-
-## Objectifs du Serveur
-
-Le serveur a pour objectif de créer une communauté unie et de fournir un RolePlay de qualité. Basé sur les États-Unis, plus précisément sur le lore (histoire) de GTA V, nous n'utilisons aucune marque existante dans la réalité. Cette décision n'est pas due aux nouvelles réglementations de FiveM, mais remonte à bien avant celles-ci. Ainsi, le serveur est travaillé dans cette optique. De plus, les gérants du serveur s'efforcent d'offrir une expérience de jeu de qualité.
-
-
-
-
-
-## La suite du règlement
+Si vous souhaitez en savoir plus, le wiki est fait pour ça : [wiki.thunder-rp.fr](http://wiki.thunder-rp.fr)
 
