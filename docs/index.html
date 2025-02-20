@@ -71,7 +71,17 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
   <script src="./assets/js/docsify-footer.min.js"></script>
   <script src="./assets/js/highlight.js"></script>
-  
+
+  <script src="./assets/js/scroll.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      var scroller = new SmoothScroll({
+        target: document.querySelector(".content"),
+        scrollEase: 0.05,
+      });
+    });
+  </script>
+
 </body>
 
 </html>
