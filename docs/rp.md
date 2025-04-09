@@ -44,7 +44,6 @@ Ne rompez pas une scène RP en cours sans raison ou justification cohérente (d�
 
 ## 6. Règles de mort et de réanimation
 
-- **Mort** : Lorsque votre personnage est gravement blessé et se réveille à l'hôpital, vous ne pouvez pas vous souvenir des détails de l'événement qui a provoqué la blessure (ex. : identité des agresseurs).
 - **Mort RP** : Elle doit être décidée par une situation RP extrême ou validée par le staff si besoin. Cela implique la fin de votre personnage actuel.
 - **Réanimation** : Les secouristes et médecins doivent jouer le soin de manière crédible. Le joueur blessé doit respecter le temps de réanimation et de convalescence.
 
@@ -56,7 +55,7 @@ Ne rompez pas une scène RP en cours sans raison ou justification cohérente (d�
 
 ## 8. Gestion des jobs et factions
 
-- **Respect de la hiérarchie** : Dans les factions officielles (Police, Mafia, Gang, EMS, etc.), suivez les ordres et respectez la chaîne de commandement.
+- **Respect de la hiérarchie** : Dans les factions officielles des services publiques (Police, EMS, etc.), suivez les ordres et respectez la chaîne de commandement.
 - **Corruption RP** : Elle est possible mais doit être encadrée (légale en RP, validée par un scénario cohérent, etc.). Évitez les dérives qui brisent l'équilibre du serveur.
 - **Argent et salaires** : Ne cherchez pas à maximiser vos gains au détriment du RP. Les jobs sont faits pour enrichir l'immersion, pas pour "farmer" sans roleplay.
 
@@ -104,8 +103,6 @@ Ne rompez pas une scène RP en cours sans raison ou justification cohérente (d�
 ## 16. Règles spécifiques aux armes et combats
 
 - **Utilisation réaliste des armes** : Les armes doivent être utilisées de manière crédible (pas de tir en l'air sans raison, pas de menace constante sans motif RP).
-- **Temps de recharge RP** : Après un échange de coups de feu, un temps de recharge RP doit être respecté avant de réengager.
-- **Armes illégales** : Le port d'armes illégales doit être justifié par votre RP et votre background de personnage.
 
 ## 17. Règles de vie quotidienne RP
 
@@ -115,7 +112,7 @@ Ne rompez pas une scène RP en cours sans raison ou justification cohérente (d�
 ## 18. Règles concernant les organisations criminelles
 
 - **Recrutement** : Tout recrutement doit passer par un RP cohérent, pas de recrutement massif sans fondement.
-- **Guerre de gangs** : Les conflits entre organisations doivent être annoncés au staff et suivre un scénario validé.
+- **Guerre de groupe** : Les conflits entre organisations doivent être alertés aux staffs et validés avec une raison RP.
 - **Trafic illégal** : Toute activité illégale doit être jouée de manière réaliste avec des risques RP conséquents.
 
 ## 19. Protection des nouveaux joueurs

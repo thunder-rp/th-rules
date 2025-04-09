@@ -76,10 +76,8 @@ Tout d'abord, **toutes les règles pour les civils s'appliquent également pour 
 
 #### Exploration et métagaming
 
-* **Interdiction formelle** de fouiller toutes les rues, ruelles, bâtiments, champs, ou de faire du porte-à-porte.\
-  _(Considéré comme du métagaming.)_
-* Pour débuter dans la criminalité, faites vos propres **contacts, rencontres, et expériences**.\
-  _(Aucune information ne vous sera donnée gratuitement.)_
+* **Interdiction formelle** de fouiller les rues, ruelles, bâtiments ou champs sans objectif RP concret. Le farming sans RP n'est pas autorisé.\
+* Pour débuter dans la criminalité, développez votre propre réseau à travers des **contacts, rencontres et expériences**.\
 
 #### Échange d'informations
 
@@ -87,21 +85,11 @@ Tout d'abord, **toutes les règles pour les civils s'appliquent également pour 
   * Financière, en service, ou autre.
   * **Un prix doit toujours être payé.**
 
-#### Scènes à grande ampleur
-
-* Vous devez **obligatoirement laisser des indices** ou **revendiquer la scène** lors d'une action importante.\
-  _(Sinon, ce sera considéré comme du WIN-RP.)_
-
-**Exemples de scènes à grande ampleur :**
-
-* Braquage de la Pacific.
-* Braquage d'une entreprise publique ou privée.
-* Prise d'otage de plus d'un joueur.
-* Petit braquage tournant mal et engendrant une grande scène.\
-  _(Liste non exhaustive.)_
+#### Braquages et présence policière
+* Pour tout braquage, peu importe son ampleur, vous devez **obligatoirement** :
+  * **Attendre la présence de la police** avant de commencer l'action (Sous une limite raisonnable de temps)
 
 ***
-
 ### Questions
 
 Si vous avez des questions (il n'y a pas de bête question), rendez-vous sur le [**Discord** ](https://l.thunder-rp.fr/discord/)et ouvrez un **ticket** !&#x20;
