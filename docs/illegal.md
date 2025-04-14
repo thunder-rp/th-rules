@@ -15,6 +15,15 @@ Tout d'abord, **toutes les règles pour les civils s'appliquent également pour 
 
 ***
 
+
+#### Noms de groupes
+
+* **Aucun groupe existant dans la vie réelle** ne pourra être utilisé comme nom.\
+  *(Exemple : Mafia italienne, Yakuza, Cartel de Medellin, etc.)* \
+  Soyez **créatifs** dans le choix du nom de votre groupe.
+  
+***
+
 ### Règles spécifiques
 
 #### 1. Vols de véhicules
