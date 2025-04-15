@@ -125,3 +125,8 @@ Ne rompez pas une scène RP en cours sans raison ou justification cohérente (d�
 - **Équilibre des forces** : Évitez les situations déséquilibrées (5 contre 1 sans raison RP valable).
 - **Respect des limites RP** : Si un joueur exprime une gêne avec une situation RP, trouvez un compromis.
 - **Signalement des problèmes** : Utilisez les canaux dédiés pour signaler tout problème plutôt que de régler les conflits en jeu.
+
+## 21. Règles concernant les véhicules d'entreprise
+
+- **Interdiction de farming** : Il est strictement interdit d'utiliser des véhicules d'entreprise pour effectuer des missions d'intérim ou du farming. Les véhicules professionnels doivent être utilisés uniquement dans le cadre des activités légitimes de l'entreprise.
+- **Sanctions** : Tout abus constaté sera sanctionné selon la gravité de l'infraction, pouvant aller jusqu'à la perte de l'emploi et des sanctions.
