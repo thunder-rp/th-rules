@@ -36,7 +36,7 @@ Tout d'abord, **toutes les règles pour les civils s'appliquent également pour 
 
 * Soyez cohérent lors de vos braquages :
   * Évitez de prendre **l'intégralité** des biens d'un citoyen.
-  * Il est interdit de forcer un joueur à sortir un bien ou une liquidité **inaccessible au moment T**.\
+  * Il est interdit de forcer un joueur à sortir un bien ou une liquidité **inaccessible au moment du braquage**.\
     _(Exemple : retirer de l'argent à un ATM, sortir un véhicule du garage, etc.)_
 
 #### 3. Nouveaux joueurs
@@ -55,10 +55,10 @@ Tout d'abord, **toutes les règles pour les civils s'appliquent également pour 
   _(Ce nombre pourra évoluer avec l'évolution du serveur.)_
 
 #### Originalité
-
 * **Aucun groupe existant dans l'histoire de GTAV** ne pourra être intégré.\
-  _(Exemple : Vagos, Lost, etc.)_\
-  Soyez **imaginatifs** dans la création de votre groupe.
+  _(Exemple : Vagos, Lost, etc.)_ \
+  Soyez **imaginatifs** dans la création de votre groupe.\
+  Pour plus d'informations, consultez la section [Noms de groupes](#noms-de-groupes)
 
 #### Relation avec les forces de l'ordre
 
@@ -85,14 +85,13 @@ Tout d'abord, **toutes les règles pour les civils s'appliquent également pour 
 
 #### Exploration et métagaming
 
-* **Interdiction formelle** de fouiller les rues, ruelles, bâtiments ou champs sans objectif RP concret. Le farming sans RP n'est pas autorisé.\
-* Pour débuter dans la criminalité, développez votre propre réseau à travers des **contacts, rencontres et expériences**.\
+* **Interdiction formelle** de fouiller les rues, ruelles, bâtiments ou champs sans objectif RP concret. Le farming sans RP n'est pas autorisé. 
+* Pour débuter dans la criminalité, développez votre propre réseau à travers des **contacts, rencontres et expériences**. 
 
 #### Échange d'informations
 
 * Il est interdit de divulguer des informations (récolte, transformation, prix, etc.) **sans contrepartie** :
   * Financière, en service, ou autre.
-  * **Un prix doit toujours être payé.**
 
 #### Braquages et présence policière
 * Pour tout braquage, peu importe son ampleur, vous devez **obligatoirement** :
