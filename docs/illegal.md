@@ -83,11 +83,6 @@ Tout d'abord, **toutes les règles pour les civils s'appliquent également pour 
 
 ### Derniers points importants
 
-#### Exploration et métagaming
-
-* **Interdiction formelle** de fouiller les rues, ruelles, bâtiments ou champs sans objectif RP concret. Le farming sans RP n'est pas autorisé. 
-* Pour débuter dans la criminalité, développez votre propre réseau à travers des **contacts, rencontres et expériences**. 
-
 #### Échange d'informations
 
 * Il est interdit de divulguer des informations (récolte, transformation, prix, etc.) **sans contrepartie** :

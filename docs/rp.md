@@ -130,3 +130,8 @@ Ne rompez pas une scène RP en cours sans raison ou justification cohérente (d�
 
 - **Interdiction de farming** : Il est strictement interdit d'utiliser des véhicules d'entreprise pour effectuer des missions d'intérim ou du farming. Les véhicules professionnels doivent être utilisés uniquement dans le cadre des activités légitimes de l'entreprise.
 - **Sanctions** : Tout abus constaté sera sanctionné selon la gravité de l'infraction, pouvant aller jusqu'à la perte de l'emploi et des sanctions.
+
+
+## 22. Exploration et Farming
+
+* **Interdiction formelle** de fouiller les rues, ruelles, bâtiments ou champs sans objectif RP concret. Il est interdit d'uniqument faire du RP Farm. Se limiter aux métiers intérimaires ou missions PNJ.   
