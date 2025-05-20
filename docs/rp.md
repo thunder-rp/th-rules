@@ -135,3 +135,9 @@ Ne rompez pas une scène RP en cours sans raison ou justification cohérente (d�
 ## 22. Exploration et Farming
 
 * **Interdiction formelle** de fouiller les rues, ruelles, bâtiments ou champs sans objectif RP concret. Il est interdit d'uniqument faire du RP Farm. Se limiter aux métiers intérimaires ou missions PNJ.   
+
+## 23. Chasse
+* **Interdiction formelle** d'utiliser l'arme de chasse pour tout autre chose que la chasse d'animaux.
+     * _Même si vous considérez que votre ami comme un chien, nous parlons bien d'animaux et pas d'êtres humains._
+
+
