@@ -140,4 +140,30 @@ Ne rompez pas une scène RP en cours sans raison ou justification cohérente (d�
 * **Interdiction formelle** d'utiliser l'arme de chasse pour tout autre chose que la chasse d'animaux.
      * _Même si vous considérez que votre ami comme un chien, nous parlons bien d'animaux et pas d'êtres humains._
 
+## 24. Transféré d'argent 
+### 1. Transferts encadrés uniquement en RP
+	 Tout transfert d'argent entre deux joueurs (espèces ou virement) doit être justifié par une action ou une situation logique et roleplay (vente de véhicule, service, dette, achat de bien, etc.).
 
+### 2. Interdiction du "money drop"
+	 Tout don ou transfert d'argent sans justification RP (ex : "tiens cadeau", "j'arrête de jouer", etc.) est strictement interdit.
+	    	* _Cela est considéré comme du money drop et est sanctionné (ban temporaire ou définitif)._
+
+### 3. Limites de transfert
+	* _Les petits transferts (ex : moins de 5 000 $) sont tolérés pour des échanges simples._
+	* _Les grosses sommes (plus de 10 000 $) doivent obligatoirement être appuyées par un RP clair et cohérent._
+
+### 4. Multi-comptes & transfert indirect
+	* _Il est strictement interdit d’envoyer de l'argent à son propre personnage via d'autres joueurs._
+
+	* _Le transfert d’argent entre personnages appartenant à une même personne (même joueur) est interdit._  
+
+### 5. Surveillance et sanctions
+	* _Les transferts sont loggés et surveillés par le staff._
+
+	En cas d’abus, vous risquez :
+
+	⚠️ Avertissement
+
+	💸 Retrait de l’argent
+
+	🚫 Ban temporaire/définitif
