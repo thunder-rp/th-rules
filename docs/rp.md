@@ -170,3 +170,7 @@ En cas d'abus, vous risquez :\
 🚫 Ban temporaire/définitif
 
 
+## 25. Règles concernant les entreprise
+
+### 1. Limite des primes
+Les primes sont limitées à 10k par semaine.
