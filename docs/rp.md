@@ -173,4 +173,4 @@ En cas d'abus, vous risquez :\
 ## 25. Règles concernant les entreprise
 
 ### 1. Limite des primes
-Les primes sont limitées à 10k par semaine.
+Les primes sont limitées à 15k par semaine.
