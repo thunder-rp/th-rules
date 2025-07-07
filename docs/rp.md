@@ -170,7 +170,15 @@ En cas d'abus, vous risquez :\
 🚫 Ban temporaire/définitif
 
 
-## 25. Règles concernant les entreprise
+## 25. Limite des primes
+Les primes sont limitées à **15 000$ par semaine**.
 
-### 1. Limite des primes
-Les primes sont limitées à 15k par semaine.
+## 26. Limite de travail hebdomadaire
+
+**Chaque joueur** est **limité** à un maximum de **40 heures de travail par semaine** , couvrant **tous les métiers** (sauf les jobs intérimaires). 
+
+## 27. Salaire horaire automatique
+**Le salaire horaire automatique** (versé aux employés dans les entreprises à rémunération fixe) **doit respecter une fourchette** comprise entre **100$ minimum** et **1 000$ maximum** par heure.
+
+## 28. Plafond de salaire
+**Le salaire fixe hebdomadaire** (versé aux employés dans les entreprises à rémunération variable) **est limité** à **40 000$ maximum** par semaine.
