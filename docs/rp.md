@@ -79,7 +79,7 @@ Ne rompez pas une scène RP en cours sans raison ou justification cohérente (d�
 
 ## 12. Règles de streaming et de contenu
 
-- **Streaming autorisé** : Vous pouvez streamer votre gameplay mais vous devez mentionner qu'il s'agit du serveur Thunder RP.
+- **Streaming autorisé** : Vous pouvez streamer votre gameplay.
 - **Respect des autres joueurs** : Si un joueur ne souhaite pas apparaître sur votre stream, vous devez respecter son choix.
 - **Contenu interdit** : Tout contenu inapproprié (raciste, sexiste, etc.) lié au serveur est strictement interdit.
 
