@@ -78,10 +78,8 @@ Ne rompez pas une scène RP en cours sans raison ou justification cohérente (d�
 - **Priorité aux joueurs inscrits** : Certains événements peuvent avoir un nombre limité de places. Les joueurs inscrits ont la priorité.
 
 ## 12. Règles de streaming et de contenu
-
 - **Streaming autorisé** : Vous pouvez streamer votre gameplay.
-- **Respect des autres joueurs** : Si un joueur ne souhaite pas apparaître sur votre stream, vous devez respecter son choix.
-- **Contenu interdit** : Tout contenu inapproprié (raciste, sexiste, etc.) lié au serveur est strictement interdit.
+- **Contenu interdit** : Tout contenu inapproprié (raciste, sexiste, etc.) est strictement interdit.
 
 ## 13. Règles concernant les personnages
 
